@@ -1,0 +1,81 @@
+模型评估指标报告
+==================================================
+
+TRAIN 数据集评估结果:
+------------------------------
+样本数量: 18543
+召回率 (Recall): 0.9176
+精确率 (Precision): 0.8721
+F1分数: 0.8943
+TSS分数: 0.7872
+混淆矩阵:
+  True Negative: 8188
+  False Positive: 1228
+  False Negative: 752
+  True Positive: 8375
+
+VALID 数据集评估结果:
+------------------------------
+样本数量: 5521
+召回率 (Recall): 0.8755
+精确率 (Precision): 0.8595
+F1分数: 0.8674
+TSS分数: 0.7558
+混淆矩阵:
+  True Negative: 2646
+  False Positive: 360
+  False Negative: 313
+  True Positive: 2202
+
+VALID2 数据集评估结果:
+------------------------------
+样本数量: 3091
+召回率 (Recall): 0.9032
+精确率 (Precision): 0.8726
+F1分数: 0.8876
+TSS分数: 0.7724
+混淆矩阵:
+  True Negative: 1349
+  False Positive: 203
+  False Negative: 149
+  True Positive: 1390
+
+TEST 数据集评估结果:
+------------------------------
+样本数量: 6185
+召回率 (Recall): 0.8902
+精确率 (Precision): 0.8601
+F1分数: 0.8749
+TSS分数: 0.7484
+混淆矩阵:
+  True Negative: 2683
+  False Positive: 443
+  False Negative: 336
+  True Positive: 2723
+
+TEST1 数据集评估结果:
+------------------------------
+样本数量: 3094
+召回率 (Recall): 0.8733
+精确率 (Precision): 0.8562
+F1分数: 0.8647
+TSS分数: 0.7340
+混淆矩阵:
+  True Negative: 1366
+  False Positive: 221
+  False Negative: 191
+  True Positive: 1316
+
+TEST2 数据集评估结果:
+------------------------------
+样本数量: 3091
+召回率 (Recall): 0.9066
+精确率 (Precision): 0.8637
+F1分数: 0.8846
+TSS分数: 0.7623
+混淆矩阵:
+  True Negative: 1317
+  False Positive: 222
+  False Negative: 145
+  True Positive: 1407
+
