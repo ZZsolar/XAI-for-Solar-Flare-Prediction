@@ -1,4 +1,4 @@
-# code_work — Solar flare forecasting workflow
+# code_work — Solar flare forecasting workflow 
 
 This directory contains the full pipeline for solar flare forecasting from SHARP magnetograms and multi-source parameters: data preparation, CNN training and evaluation, mask generation (MFR/PIL), SHARP parameter computation, and parameter-based classification.
 
